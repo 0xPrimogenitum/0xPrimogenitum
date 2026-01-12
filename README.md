@@ -58,7 +58,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=0xPrimogenitum&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0xPrimogenitum&hide_border=true&theme=tokyonight&cache_seconds=1800&count_private=true" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xPrimogenitum&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
