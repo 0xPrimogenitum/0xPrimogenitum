@@ -15,6 +15,7 @@
 </p>
 
 ## 🧠 About
+
 > I break things to understand them.  
 > Game internals, binaries, tools & systems.  
 > No shortcuts. No black boxes.
@@ -24,6 +25,7 @@
 </p>
 
 ## 🛠 Tech Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,cs,js,ts,python,react,nodejs,linux,git,cmake&perline=5" />
 </p>
@@ -33,6 +35,7 @@
 </p>
 
 ## 🧪 What I Actually Do
+
 - Reverse engineering & binary analysis  
 - Game internals & custom tooling  
 - Low-level systems  
@@ -43,17 +46,28 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A00FF,100:00C6FF&height=2" />
 </p>
 
+## 🧭 Philosophy
+
+> If I use it, I want to understand it.  
+> If I don’t understand it, I rebuild it.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00D4FF&height=2" />
+</p>
+
 ## 📊 GitHub Stats
+
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=0xPrimogenitum&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xPrimogenitum&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00D4FF&height=2" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A00FF,100:00C6FF&height=2" />
 </p>
 
 ## 👀 Profile Views
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=0xPrimogenitum&style=flat-square&color=8A2BE2" />
 </p>
