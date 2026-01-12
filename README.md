@@ -55,17 +55,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00D4FF&height=2" />
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xPrimogenitum&hide_border=true&theme=tokyonight&cache_seconds=1800&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xPrimogenitum&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A00FF,100:00C6FF&height=2" />
-</p>
-
 ## 👀 Profile Views
 
 <p align="center">
