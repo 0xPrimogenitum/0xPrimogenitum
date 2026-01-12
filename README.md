@@ -1,15 +1,15 @@
-<!-- ===================== -->
-<!-- 0xPrimogenitum README -->
-<!-- ===================== -->
+<!-- =============================== -->
+<!-- 0xPrimogenitum · Profile README -->
+<!-- =============================== -->
 
-<!-- Animated Header -->
+<!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00D4FF&height=200&section=header&text=0xPrimogenitum&fontSize=55&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:00C6FF&height=200&section=header&text=0xPrimogenitum&fontSize=55&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- Typing Animation -->
+<!-- Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=7F00FF&center=true&vCenter=true&width=650&lines=Reverse+Engineering;Game+Modding+%26+Internals;C%2B%2B+%7C+C%23+%7C+JS+%7C+Python;Building+things+from+scratch" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=8A2BE2&center=true&vCenter=true&width=700&lines=Reverse+Engineering+%26+Game+Internals;Binary+Analysis+%7C+Tooling+%7C+Systems;Build+it.+Break+it.+Understand+it." />
 </p>
 
 ---
@@ -17,8 +17,8 @@
 ## 🧠 About
 
 > I break things to understand them.  
-> Game internals, tools, engines & systems.  
-> If it exists, I want to know how it works.
+> Game internals, binaries, tools & systems.  
+> No shortcuts. No black boxes.
 
 ---
 
@@ -27,6 +27,16 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,cs,js,ts,python,react,nodejs,linux,git,cmake&perline=5" />
 </p>
+
+---
+
+## 🧪 What I Actually Do
+
+- Reverse engineering & binary analysis  
+- Game internals & custom tooling  
+- Low-level systems  
+- Engine & framework work  
+- Build instead of depend  
 
 ---
 
@@ -39,22 +49,22 @@
 
 ---
 
-## 🔥 Focus
+## 🧭 Philosophy
 
-- Reverse Engineering & Binary Analysis  
-- Game Modding / Custom Tools  
-- Low-level systems & internals  
-- Building instead of depending  
+> If I use it, I want to understand it.  
+> If I don’t understand it, I rebuild it.
 
 ---
 
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0xPrimogenitum&style=flat-square&color=7F00FF" />
+  <img src="https://komarev.com/ghpvc/?username=0xPrimogenitum&style=flat-square&color=8A2BE2" />
 </p>
+
+<sub>built from scratch</sub>
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7F00FF&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:6A00FF&height=120&section=footer" />
 </p>
